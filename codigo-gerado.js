@@ -5,7 +5,7 @@
  */
 
 // ===== CONFIGURAÇÃO (preencher antes de publicar) =====
-const SPREADSHEET_ID   = 'https://docs.google.com/spreadsheets/d/12zxL_YsifED5Gjq7ahtcVee4H55mNJds7dtXmdAzdBU/edit?gid=0#gid=0';
+const SPREADSHEET_ID   = 'https://drive.google.com/drive/my-drive';
 const PASTA_ANEXOS_ID  = 'Manifestacoes';
 const EMAIL_OUVIDORIA  = 'ouvidor.yaraclube@gmail.com';
 const NOME_ABA         = 'Manifestacoes';
